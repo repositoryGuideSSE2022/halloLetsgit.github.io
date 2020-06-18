@@ -6,4 +6,4 @@ hallo ich bin beschreibung
 
 * trait
 * 1 üea
-* Ähms
+* Ähmss
